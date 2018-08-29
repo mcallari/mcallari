@@ -184,9 +184,10 @@ px      68    160    252    */
     padding-left: 0px;
   }
   #slider .block h1 {
+    font-size: 52px;
   }
   #slider .block p {
-    font-size: 18px;
+    font-size: 24px;
   }
   /*--
 	wrapper Start
@@ -220,11 +221,25 @@ px      68    160    252    */
     padding: 10px 20px;
     font-size: 15px;
   }
+  #intro .section-title {
+    padding: 0;
+  }
+  #intro .container .block {
+    text-align: center;
+  }
   #feature {
     background: #F2F2F2;
     padding: 20px 0;
   }
+  #feature .container {
+    text-align: center;
+  }
+  #feature .btn-main {
+    display: block;
+  }
   .section-title {
+    padding-left: 15px;
+    padding-right: 15px;
   }
   /*--
 	content Start
