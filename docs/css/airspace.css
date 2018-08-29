@@ -43,7 +43,7 @@ h3 {
   font-weight: 300;
 }
 p {
-  font-size: 15px;
+  font-size: 18px;
   line-height: 28px;
 }
 ul {
@@ -133,7 +133,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider {
   background: url("../img/slider-bg.jpg") no-repeat;
   background-size: cover;
-  background-position: 10% 0%;
+  background-position: 10% 15%;
   padding: 85px 0 100px 0;
   position: relative;
 }
@@ -157,8 +157,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 400;
   font-size: 45px;
   line-height: 60px;
-  letter-spacing: 10px;
-  padding-bottom: 45px;
+  letter-spacing: 5px;
 }
 #slider .block p {
   font-size: 23px;
@@ -171,7 +170,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	wrapper Start
 --*/
 #intro {
-  padding: 100px 0;
+  padding: 50px;
 }
 #intro .block h2 {
   padding-top: 35px;
@@ -249,7 +248,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 30px;
 }
 #call-to-action p {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.6;
 }
 #call-to-action .btn-call-to-action {
@@ -264,7 +263,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/feature-bg.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
