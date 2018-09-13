@@ -72,11 +72,9 @@
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="https://mcallari.github.io/mcallari/">Home</a></li>
               
-                <li><a href="/mcallari/work/">Work</a></li>
-              
                 <li><a href="/mcallari/blog/">Blog</a></li>
               
-                <li><a href="/mcallari/service/">Service</a></li>
+                <li><a href="/mcallari/services/">Services</a></li>
               
                 <li><a href="/mcallari/contact/">Contact</a></li>
               
@@ -109,33 +107,33 @@
 
 <section id="contact-form">
   <div class="container">
+    <form action="https://formspree.io/mike.callari+ch@gmail.com" method="POST">
+      <input type="hidden" name="_format" value="plain" />
+      <input type="hidden" name="_next" value="https://mcallari.github.io/mcallari/contact/" />
     <div class="row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <form>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Your name">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Your email">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Your subject">
-            </div>
-          </form>
+          <div class="form-group">
+            <input type="text" class="form-control" name="name" placeholder="Your name">
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control" name="email" placeholder="Your email">
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control" name="subject" placeholder="Your subject">
+          </div>
         </div>
       </div>
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <form>
             <div class="form-group-2">
-              <textarea class="form-control" rows="3" placeholder="Your message"></textarea>
+              <textarea class="form-control" rows="3" name="message" placeholder="Your message"></textarea>
             </div>
             <button class="btn btn-default" type="submit">Send message</button>
-          </form>
         </div>
       </div>
     </div>
+    </form>
     <div id="contact-box" class="row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
@@ -170,6 +168,7 @@
     </div>
   </div>
 </section>
+
 
 	
 
