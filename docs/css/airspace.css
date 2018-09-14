@@ -167,6 +167,10 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 600;
   color: #fff;
 }
+#slider .logo {
+  width: 60px;
+  margin-top: 20px;
+}
 /*--
 	wrapper Start
 --*/
@@ -314,6 +318,12 @@ font header .navbar-default .navbar-nav li a:hover {
 #testimonial .block p {
   padding-top: 50px;
   color: #7B7B7B;
+}
+#testimonial .section-title {
+  margin-bottom: 20px;
+}
+#testimonial .section-title h2 {
+  margin-bottom: 20px;
 }
 #testimonial .counter-box li {
   width: 50%;
