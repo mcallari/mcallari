@@ -453,8 +453,8 @@ font header .navbar-default .navbar-nav li a:hover {
   text-transform: none;
 }
 #global-header .block p {
-  font-size: 16px;
-  font-weight: 300;
+  font-size: 27px;
+  font-weight: 400;
   letter-spacing: 1px;
   word-spacing: 3px;
 }
