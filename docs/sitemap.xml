@@ -28,6 +28,10 @@
   </url>
   
   <url>
+    <loc>https://mcallari.github.io/mcallari/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://mcallari.github.io/mcallari/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
@@ -36,10 +40,6 @@
   <url>
     <loc>https://mcallari.github.io/mcallari/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mcallari.github.io/mcallari/contact/</loc>
   </url>
   
   <url>

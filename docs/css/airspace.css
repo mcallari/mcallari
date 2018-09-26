@@ -125,6 +125,14 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #000;
 }
 /*---------------------------------------------
+  Elements
+---------------------------------------------*/
+.img-circle.staff {
+  border: 1px solid #DEE3E4;
+  padding: 4px;
+  background: #DEE3E4;
+}
+/*---------------------------------------------
 					Index Start
 -----------------------------------------------*/
 /*--
@@ -395,6 +403,16 @@ font header .navbar-default .navbar-nav li a:hover {
 #clients-logo-section .clients-logo-img {
   padding: 0px 50px;
 }
+
+/*---------------------------------------------
+					About
+-----------------------------------------------*/
+#about .container {
+  margin-bottom: 70px;
+}
+#about .section-title {
+  margin-top: 70px;
+}
 /*---------------------------------------------
 					Work Start
 -----------------------------------------------*/
@@ -418,22 +436,21 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
-  opacity: 0.8;
+  background: rgba(11, 57, 101, 0.5);
 }
 #global-header .block {
   color: #E3E3E4;
   margin: 0 auto;
-  padding-left: 90px;
   text-align: center;
 }
 #global-header .block h1 {
-  font-weight: 100;
-  font-size: 45px;
-  letter-spacing: 6px;
-  padding-bottom: 15px;
-  margin-top: 0;
-  text-transform: capitalize;
+  font-family: 'Avenir', sans-serif;
+  font-weight: 600;
+  font-size: 80px;
+  line-height: 1.1;
+  letter-spacing: 2px;
+  color: #fff;
+  text-transform: none;
 }
 #global-header .block p {
   font-size: 16px;
@@ -694,7 +711,6 @@ font header .navbar-default .navbar-nav li a:hover {
 	contact-form Start
 --*/
 #contact-form {
-  padding-top: 70px;
   padding-bottom: 35px;
 }
 #contact-form .block form .form-group {
@@ -712,12 +728,12 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 15px;
   margin: 0px;
 }
-#contact-form .block form .form-group-2 textarea {
+#contact-form .block textarea {
   background: #F6F8FA;
-  height: 135px;
   border: 1px solid #EEF2F6;
   box-shadow: none;
   width: 100%;
+  margin-bottom: 20px;
 }
 #contact-form .block button {
   width: 100%;
