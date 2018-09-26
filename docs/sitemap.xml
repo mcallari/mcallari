@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mcallari.github.io/mcallari/blog/</loc>
+    <lastmod>2018-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcallari.github.io/mcallari/blog/hugo-is-for-lovers/</loc>
+    <lastmod>2018-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mcallari.github.io/mcallari/blog/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
@@ -18,8 +28,13 @@
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/blog/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>https://mcallari.github.io/mcallari/blog/creating-a-new-theme-x/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcallari.github.io/mcallari/blog/creating-a-new-theme-y/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
@@ -29,12 +44,6 @@
   
   <url>
     <loc>https://mcallari.github.io/mcallari/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mcallari.github.io/mcallari/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -56,18 +65,12 @@
   
   <url>
     <loc>https://mcallari.github.io/mcallari/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <lastmod>2018-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mcallari.github.io/mcallari/tags/ipsum/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mcallari.github.io/mcallari/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -79,25 +82,7 @@
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mcallari.github.io/mcallari/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mcallari.github.io/mcallari/services/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mcallari.github.io/mcallari/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -114,12 +99,8 @@
   
   <url>
     <loc>https://mcallari.github.io/mcallari/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2018-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mcallari.github.io/mcallari/work/</loc>
   </url>
   
 </urlset>
