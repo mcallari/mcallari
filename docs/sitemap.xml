@@ -3,102 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/blog/</loc>
+    <loc>//localhost:1313/mcallari/blog/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/blog/hugo-is-for-lovers/</loc>
+    <loc>//localhost:1313/mcallari/blog/hugo-is-for-lovers/</loc>
     <lastmod>2018-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/blog/migrate-from-jekyll/</loc>
+    <loc>//localhost:1313/mcallari/blog/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/blog/linked-post/</loc>
+    <loc>//localhost:1313/mcallari/blog/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/blog/go-is-for-lovers/</loc>
+    <loc>//localhost:1313/mcallari/blog/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/blog/creating-a-new-theme-x/</loc>
+    <loc>//localhost:1313/mcallari/blog/creating-a-new-theme-x/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/blog/creating-a-new-theme-y/</loc>
+    <loc>//localhost:1313/mcallari/blog/creating-a-new-theme-y/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/blog/creating-a-new-theme/</loc>
+    <loc>//localhost:1313/mcallari/blog/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/about/</loc>
+    <loc>//localhost:1313/mcallari/about/</loc>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/categories/</loc>
+    <loc>//localhost:1313/mcallari/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/tags/go/</loc>
+    <loc>//localhost:1313/mcallari/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/tags/golang/</loc>
+    <loc>//localhost:1313/mcallari/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/tags/hugo/</loc>
+    <loc>//localhost:1313/mcallari/tags/hugo/</loc>
     <lastmod>2018-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/tags/ipsum/</loc>
+    <loc>//localhost:1313/mcallari/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/tags/programming/</loc>
+    <loc>//localhost:1313/mcallari/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/services/</loc>
+    <loc>//localhost:1313/mcallari/services/</loc>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/tags/</loc>
+    <loc>//localhost:1313/mcallari/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/tags/theme/</loc>
+    <loc>//localhost:1313/mcallari/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mcallari.github.io/mcallari/</loc>
+    <loc>//localhost:1313/mcallari/</loc>
     <lastmod>2018-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
