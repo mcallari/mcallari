@@ -171,11 +171,14 @@ px      68    160    252    */
   }
   #global-header .block h1,
   #blog-header .block h1 {
-    font-size: 60px;
+    font-size: 30px;
+  }
+  #blog-header .block {
+    width: 90%;
   }
   #global-header .block p,
   #blog-header .block p {
-    font-size: 18px;
+    font-size: 16px;
   }
   .blog.section {
     padding: 30px 15px 30px 15px;

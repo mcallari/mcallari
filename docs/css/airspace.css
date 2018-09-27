@@ -833,14 +833,14 @@ font header .navbar-default .navbar-nav li a:hover {
 #blog-header .block h1 {
   font-family: 'Avenir', sans-serif;
   font-weight: 600;
-  font-size: 70px;
+  font-size: 45px;
   line-height: 1.1;
   letter-spacing: 2px;
   color: #fff;
   text-transform: none;
 }
 #blog-header .block p {
-  font-size: 22px;
+  font-size: 18px;
   line-height: 1.1;
   font-family: 'Avenir', sans-serif;
   font-weight: 600;
