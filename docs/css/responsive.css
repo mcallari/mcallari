@@ -16,6 +16,7 @@ px      68    160    252    344    436    528    620    712    */
   /*---------------------------------------------
 					Index Start
 -----------------------------------------------*/
+
   /*--
 	wrapper Start
 --*/
@@ -162,6 +163,33 @@ px      68    160    252    344    436    528    620    712    */
 cols    1     2      3
 px      68    160    252    */
 @media only screen and (max-width: 767px) {
+
+  #global-header,
+  #blog-header {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  #global-header .block h1,
+  #blog-header .block h1 {
+    font-size: 60px;
+  }
+  #global-header .block p,
+  #blog-header .block p {
+    font-size: 18px;
+  }
+  .blog.section {
+    padding: 30px 15px 30px 15px;
+  }
+  .post .content {
+    padding: 20px;
+  }
+  .post .content .block {
+    width: 100%;
+  }
+  #testimonial {
+    padding: 30px 0;
+  }
+
   /*---------------------------------------------
 					Index Start
 -----------------------------------------------*/
@@ -170,6 +198,9 @@ px      68    160    252    */
   }
   h2 {
     font-size: 18px;
+  }
+  h3 {
+    font-size: 16px;
   }
   p {
     font-size: 16px;
@@ -405,9 +436,7 @@ px      68    160    252    */
   /*--
 	footer Start
 --*/
-  footer .footer-manu {
-    display: none;
-  }
+
 }
 /*		Wide Mobile Layout: 480px.
 		Gutters: 24px.
