@@ -896,6 +896,9 @@ font header .navbar-default .navbar-nav li a:hover {
 .blog .card .tag {
   padding: 3px 3px 0;
 }
+.comments .utterances {
+  max-width: 100%;
+}
 
 /*---------------------------------------------
 					Contact Close

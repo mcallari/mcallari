@@ -197,13 +197,8 @@ Having nearly instant feedback enables you to have your creativity flow without 
 				<div class="row">
 					<div class="col-xs-12">
 						<div class="block">
-							<div style="min-height:600px;">
-								<script src="https://utteranc.es/client.js"
-									repo="https://github.com/mcallari/mcallari"
-									issue-term="pathname"
-									crossorigin="anonymous"
-									async>
-								</script>
+							<hr  />
+							<div class="comments">
 							</div>
 						</div>
 					</div>
@@ -255,6 +250,21 @@ Having nearly instant feedback enables you to have your creativity flow without 
     </div>
   </div>
 </footer>
+
+
+	<script>
+  (function() {
+      if (location.pathname === '/') {
+      	return;
+      }
+      var main = document.querySelector('.comments');
+      var script = document.createElement('script');
+      script.src='https://utteranc.es/client.js'
+      script.setAttribute('repo', 'mcallari/mcallari');
+      script.setAttribute('issue-term', 'pathname');
+      main.appendChild(script);
+  })();
+</script>
 
 <script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
 </html>
