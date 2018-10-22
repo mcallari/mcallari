@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Three-X-Square::Distributed Architecture Experts</title>
-    <link>https://mcallari.github.io/mcallari/tags/hugo/</link>
+    <link>https://www.threexsquare.com/tags/hugo/</link>
     <description>Recent content in Hugo on Three-X-Square::Distributed Architecture Experts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mcallari.github.io/mcallari/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.threexsquare.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ditch Your CMS by Using Hugo and GitHub Pages to Deploy a Truly Static Site</title>
-      <link>https://mcallari.github.io/mcallari/blog/ditch-your-cms-for-hugo-for-a-simple-site/</link>
+      <link>https://www.threexsquare.com/blog/ditch-your-cms-for-hugo-for-a-simple-site/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcallari.github.io/mcallari/blog/ditch-your-cms-for-hugo-for-a-simple-site/</guid>
+      <guid>https://www.threexsquare.com/blog/ditch-your-cms-for-hugo-for-a-simple-site/</guid>
       <description>For developers, product managers, and directors we are continuously striving to find a development, user experience, and cost equilibrium for our projects. Each person on the team wants to complete projects efficiently without sacrificing quality.
 In my career as a CMS developer, project manager, and solution architect, one of the most frustrating things is being forced to use the wrong tool for the job at hand because of a reason outside the control of the project team.</description>
     </item>
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>https://mcallari.github.io/mcallari/blog/hugo-is-for-lovers/</link>
+      <link>https://www.threexsquare.com/blog/hugo-is-for-lovers/</link>
       <pubDate>Fri, 03 Aug 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://mcallari.github.io/mcallari/blog/hugo-is-for-lovers/</guid>
+      <guid>https://www.threexsquare.com/blog/hugo-is-for-lovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -37,10 +37,10 @@ Follow the following steps:
     
     <item>
       <title>Linked post</title>
-      <link>https://mcallari.github.io/mcallari/blog/linked-post/</link>
+      <link>https://www.threexsquare.com/blog/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://mcallari.github.io/mcallari/blog/linked-post/</guid>
+      <guid>https://www.threexsquare.com/blog/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
 menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
