@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Three-X-Square::Distributed Architecture Experts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mcallari.github.io/mcallari/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cms</title>
+      <link>https://mcallari.github.io/mcallari/tags/cms/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcallari.github.io/mcallari/tags/cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github Pages</title>
+      <link>https://mcallari.github.io/mcallari/tags/github-pages/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcallari.github.io/mcallari/tags/github-pages/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Go</title>
@@ -32,7 +50,7 @@
     <item>
       <title>Hugo</title>
       <link>https://mcallari.github.io/mcallari/tags/hugo/</link>
-      <pubDate>Fri, 03 Aug 2018 13:39:46 +0200</pubDate>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://mcallari.github.io/mcallari/tags/hugo/</guid>
       <description></description>

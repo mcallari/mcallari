@@ -14,7 +14,7 @@
 
 
 
-<title>three-x-square::About Us</title>
+<title>three-x-square::Ditch Your CMS by Using Hugo and GitHub Pages to Deploy a Truly Static Site</title>
 
 <meta name="generator" content="Hugo 0.47.1" />
 
@@ -88,68 +88,132 @@
 </header>
 
 
-	
-		
-<section id="global-header">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="block">
-                    <h1>About Us</h1>
-                    <p></p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+	<section id="blog-header"  style="background-image: url( https://mcallari.github.io/mcallari/img/ashley-jurius-788557-unsplash.jpg );" >
+	    <div class="container">
+	        <div class="row">
+	            <div class="col-md-12">
+	                <div class="block">
+	                    <h1>Ditch Your CMS by Using Hugo and GitHub Pages to Deploy a Truly Static Site</h1>
+											<div class="post-info-wrapper">
+												<p class="italic">By <span class="bold">Michael Callari</span> on <span class="bold">October 2, 2018</span></p>
+											</div>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</section>
 
+	<div class="post">
+	  
+	  <section class="section content" style="border: 1px dotted #ddd;">
+	    <div class="container">
+	      <div class="row">
+	        <div class="col-xs-12">
+	          <div class="block">
+	            <p>
 
-<section id="about">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <div class="section-title">
-          <p>three-x-square was founded by in 2018 by Luane Harris and Michael Callari. Two solution architects who have be building application since the warly days of the web.<br><br> We believe in business-driven operations to inform which and how technology should be implemented. We work with trusted developers across North America only to deliver consulting and application to push your business to the next level.</p>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      
-      <div class="col-sm-12 col-md-6">
-        <div class="staff text-center">
-          <div class="image">
-            <img src="https://mcallari.github.io/mcallari/img/laune-harris.jpeg" class="img-circle staff" alt="Laune Harris">
-          </div>
-          <div class="title">
-            <h2>Laune Harris</h2>
-            <h3>Toronto</h3>
-          </div>
-          <div class="social">
-            <a href="https://www.linkedin.com/in/launeharris/" target="_blank"><div class="ion-social-linkedin"></div></a>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-12 col-md-6">
-        <div class="staff text-center">
-          <div class="image">
-            <img src="https://mcallari.github.io/mcallari/img/mike-callari.jpeg" class="img-circle staff" alt="Michael Callari">
-          </div>
-          <div class="title">
-            <h2>Michael Callari</h2>
-            <h3>New York</h3>
-          </div>
-          <div class="social">
-            <a href="https://www.linkedin.com/in/michaelcallari/" target="_blank"><div class="ion-social-linkedin"></div></a>
-          </div>
-        </div>
-      </div>
-      
-    </div>
-  </div>
-</section>
+<p>For developers, product managers, and directors we are continuously striving to find a development, user experience, and cost equilibrium for our projects. Each person on the team wants to complete projects efficiently without sacrificing quality.</p>
 
-	
+<p>In my career as a CMS developer, project manager, and solution architect, one of the most frustrating things is being forced to use the wrong tool for the job at hand because of a reason outside the control of the project team. The most common example of this is having to deploy a full-scale CMS to produce a simple, informational site with a blog or blog-like components.</p>
+
+<p>In building out the <strong>three-x-square</strong> site, Laune and I wanted to explore ditching the CMS and give Hugo a try. I will walk you through the main components of a basic site and how Hugo got us up and running to see if this approach will be right for your next project.</p>
+
+<h2 id="the-tech-needs">The Tech Needs</h2>
+
+<p>With any new approach there will likey be trade-offs, and those have to be measured against the business goals at hand to determine if the project is viable. We knew the following features were required and had to work without us breaking any patterns Hugo had set up:</p>
+
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Solution</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Pages</td>
+<td>Hugo Default</td>
+</tr>
+
+<tr>
+<td>Dynamic List Pages</td>
+<td>Hugo Default</td>
+</tr>
+
+<tr>
+<td>Dynamic List Pages</td>
+<td>Hugo Default</td>
+</tr>
+
+<tr>
+<td>Tags/Tag Links</td>
+<td>Hugo Default</td>
+</tr>
+
+<tr>
+<td>Images and Files</td>
+<td>Hugo Default</td>
+</tr>
+
+<tr>
+<td>Templates and Partials</td>
+<td>Hugo Default</td>
+</tr>
+
+<tr>
+<td>Comments</td>
+<td>GitHub Comments by utteranc.es</td>
+</tr>
+
+<tr>
+<td>Contact Form</td>
+<td>Formspree</td>
+</tr>
+</tbody>
+</table>
+
+<p>We were confident Hugo was able to give us these features with little friction. Since we are not working with a server, we knew we were going to have to integrate with an outside service for comments and a contact form. I will cover those solutions, which are also cost-free.</p>
+
+<ul>
+<li>Pages
+
+<ul>
+<li>List pages</li>
+</ul></li>
+<li>Navigation
+
+<ul>
+<li>tags</li>
+</ul></li>
+<li>Images and Files</li>
+</ul>
+
+<p>Builds and Deployment
+ - Local build
+ - GitHub Pages</p>
+
+<p>Conclusion
+- Who is this for? Should we us it?</p>
+</p>
+	          </div>
+	        </div>
+	      </div>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="block">
+							<hr  />
+							<div class="comments">
+							</div>
+						</div>
+					</div>
+				</div>
+	    </div>
+	  </section>
+	</div>
+	<p class="center-text" style="padding: 30px;">
+	  <a class="btn btn-main" href="https://mcallari.github.io/mcallari//blog">Back to blog</a>
+	</p>
 
 	
 		
@@ -193,6 +257,19 @@
 </footer>
 
 
+	<script>
+  (function() {
+      if (location.pathname === '/') {
+      	return;
+      }
+      var main = document.querySelector('.comments');
+      var script = document.createElement('script');
+      script.src='https://utteranc.es/client.js'
+      script.setAttribute('repo', 'mcallari/mcallari');
+      script.setAttribute('issue-term', 'pathname');
+      main.appendChild(script);
+  })();
+</script>
 
 <script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
 </html>

@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Ditch Your CMS by Using Hugo and GitHub Pages to Deploy a Truly Static Site</title>
+      <link>https://mcallari.github.io/mcallari/blog/ditch-your-cms-for-hugo-for-a-simple-site/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcallari.github.io/mcallari/blog/ditch-your-cms-for-hugo-for-a-simple-site/</guid>
+      <description>For developers, product managers, and directors we are continuously striving to find a development, user experience, and cost equilibrium for our projects. Each person on the team wants to complete projects efficiently without sacrificing quality.
+In my career as a CMS developer, project manager, and solution architect, one of the most frustrating things is being forced to use the wrong tool for the job at hand because of a reason outside the control of the project team.</description>
+    </item>
+    
+    <item>
       <title>Hugo is for lovers</title>
       <link>https://mcallari.github.io/mcallari/blog/hugo-is-for-lovers/</link>
       <pubDate>Fri, 03 Aug 2018 13:39:46 +0200</pubDate>

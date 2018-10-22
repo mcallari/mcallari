@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github Pages on Three-X-Square::Distributed Architecture Experts</title>
+    <link>https://mcallari.github.io/mcallari/tags/github-pages/</link>
+    <description>Recent content in Github Pages on Three-X-Square::Distributed Architecture Experts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mcallari.github.io/mcallari/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ditch Your CMS by Using Hugo and GitHub Pages to Deploy a Truly Static Site</title>
+      <link>https://mcallari.github.io/mcallari/blog/ditch-your-cms-for-hugo-for-a-simple-site/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcallari.github.io/mcallari/blog/ditch-your-cms-for-hugo-for-a-simple-site/</guid>
+      <description>For developers, product managers, and directors we are continuously striving to find a development, user experience, and cost equilibrium for our projects. Each person on the team wants to complete projects efficiently without sacrificing quality.
+In my career as a CMS developer, project manager, and solution architect, one of the most frustrating things is being forced to use the wrong tool for the job at hand because of a reason outside the control of the project team.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mcallari.github.io/mcallari/blog/ditch-your-cms-for-hugo-for-a-simple-site/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mcallari.github.io/mcallari/blog/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
   </url>
@@ -52,6 +57,18 @@
   </url>
   
   <url>
+    <loc>https://mcallari.github.io/mcallari/tags/cms/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mcallari.github.io/mcallari/tags/github-pages/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mcallari.github.io/mcallari/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
@@ -65,7 +82,7 @@
   
   <url>
     <loc>https://mcallari.github.io/mcallari/tags/hugo/</loc>
-    <lastmod>2018-08-03T13:39:46+02:00</lastmod>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -87,7 +104,7 @@
   
   <url>
     <loc>https://mcallari.github.io/mcallari/tags/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,7 +116,7 @@
   
   <url>
     <loc>https://mcallari.github.io/mcallari/</loc>
-    <lastmod>2018-08-03T13:39:46+02:00</lastmod>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
