@@ -438,7 +438,33 @@ font header .navbar-default .navbar-nav li a:hover {
 #about .social {
   font-size: 30px;
 }
+/*---
+
 /*---------------------------------------------
+					Consultation
+-----------------------------------------------*/
+#consultation .container {
+  margin-bottom: 70px;
+}
+#consultation .section-title {
+  margin-top: 70px;
+  margin-bottom: 40px;
+}
+#consultation .social {
+  font-size: 30px;
+}
+#consultation .section-title p {
+  font-family: "Roboto";
+  font-style: normal;
+}
+#consultation .section-title ul {
+  font-family: "Roboto";
+  color:#666;
+  list-style: inherit;
+  padding: 20px;
+  margin-left: 15px;
+}
+/*------------------------------------------
 					Work Start
 -----------------------------------------------*/
 /*--
@@ -482,6 +508,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 400;
   letter-spacing: 1px;
   word-spacing: 3px;
+  color: #fff;
 }
 /*--
 	portfolio-work Start
