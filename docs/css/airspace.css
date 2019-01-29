@@ -464,6 +464,9 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 20px;
   margin-left: 15px;
 }
+#consultation select.form-control {
+  color: #999999;
+}
 /*------------------------------------------
 					Work Start
 -----------------------------------------------*/
