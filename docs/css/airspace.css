@@ -467,6 +467,13 @@ font header .navbar-default .navbar-nav li a:hover {
 #consultation select.form-control {
   color: #999999;
 }
+.projects p {
+  font-family: "Roboto";
+  color: #666;
+}
+.projects img {
+  margin: 0 auto;
+}
 /*------------------------------------------
 					Work Start
 -----------------------------------------------*/
